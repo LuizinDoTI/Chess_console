@@ -1,0 +1,15 @@
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/Chess_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/Chess_console.AssemblyInfoInputs.cache
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/Chess_console.AssemblyInfo.cs
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/Chess_console.csproj.CoreCompileInputs.cache
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/Chess_console.sourcelink.json
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/bin/Debug/net9.0/ChessConsole
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/bin/Debug/net9.0/ChessConsole.deps.json
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/bin/Debug/net9.0/ChessConsole.runtimeconfig.json
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/bin/Debug/net9.0/ChessConsole.dll
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/bin/Debug/net9.0/ChessConsole.pdb
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/ChessConsole.dll
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/refint/ChessConsole.dll
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/ChessConsole.pdb
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/Chess_console.genruntimeconfig.cache
+/Users/LuizinDoTI/Library/CloudStorage/OneDrive-sga.pucminas.br/Projetos C#/Desenv./ChessConsole/Chess_console/obj/Debug/net9.0/ref/ChessConsole.dll
