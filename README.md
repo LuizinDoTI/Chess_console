@@ -45,7 +45,7 @@ Este projeto foi uma oportunidade para praticar os seguintes conceitos:
 ## 🚀 Como Executar
 
 **Pré-requisitos:**
-* [.NET 8.0 (ou superior)](https://dotnet.microsoft.com/download/dotnet/8.0)
+* [.NET 8.0 (ou superior)] (https://dotnet.microsoft.com/download/dotnet/8.0)
 
 **Passos:**
 1.  Clone este repositório:
@@ -71,4 +71,4 @@ O código está organizado da seguinte forma para seguir os princípios de separ
 
 ---
 
-*Projeto desenvolvido por [Seu Nome Aqui] como parte do aprendizado em C#.*
+*Projeto desenvolvido por [Luiz Carlos] como parte do aprendizado em C#.*
