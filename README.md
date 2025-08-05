@@ -1,4 +1,4 @@
-# Xadrez de Console em C# - Projeto de Estudo OOP
+# Xadrez de Console em C# - Projeto de Estudo POO
 
 Este projeto é um jogo de xadrez totalmente funcional desenvolvido para rodar no terminal, criado como parte dos meus estudos em C# e Programação Orientada a Objetos. O foco principal foi aplicar os pilares da OOP para criar um código limpo, organizado e extensível.
 
