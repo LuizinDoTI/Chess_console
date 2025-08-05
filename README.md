@@ -4,25 +4,7 @@ Este projeto é um jogo de xadrez totalmente funcional desenvolvido para rodar n
 
 ## 📸 Preview da Interface
 
-
-a b c d e f g h
-
-+-----------------+
-8 |r|n|b|q|k|b|n|r| 8
-7 |p|p|p|p|p|p|p|p| 7
-6 | | | | | | | | | 6
-5 | | | | | | | | | 5
-4 | | | | | | | | | 4
-3 | | | | | | | | | 3
-2 |P|P|P|P|P|P|P|P| 2
-1 |R|N|B|Q|K|B|N|R| 1
-+-----------------+
-a b c d e f g h
-
-Turno: Brancas | Status: Em andamento Última Jogada: N/A Capturadas (pelas Brancas): Capturadas (pelas Pretas):
-📊 Perf: Threads: 10 | CPU: 0.2s | Mem: 35MB
-Selecione a peça de origem (ex: e2):
-
+<img width="334" height="312" alt="Image" src="https://github.com/user-attachments/assets/bf7522c3-d008-4d63-affe-f144c2016e9f" />
 
 ## ✨ Funcionalidades
 
